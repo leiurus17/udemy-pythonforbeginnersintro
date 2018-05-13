@@ -14,3 +14,8 @@ print(jeff)
 print(mark)
 print(daniel)
 print(neil)
+
+name, age = "Edward", 15
+
+print(name)
+print(age)
