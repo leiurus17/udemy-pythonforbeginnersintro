@@ -24,3 +24,4 @@ sentence = "Marlon was playing basketball.";
 
 # Splicing
 print(sentence[0:6])
+print(sentence[:-12])
