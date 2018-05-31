@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b29be28-b47b-4bc7-bb5d-9af9b7002a2e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ConditionalStatements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/Tuples.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,11 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tuples.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tuples.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/Tuples.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
               <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConditionalStatements.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConditionalStatements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -89,10 +98,11 @@
         <option value="$PROJECT_DIR$/HelloWorld/Lists.py" />
         <option value="$PROJECT_DIR$/HelloWorld/Dictionary.py" />
         <option value="$PROJECT_DIR$/HelloWorld/Tuples.py" />
+        <option value="$PROJECT_DIR$/ConditionalStatements.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="680" />
     <option name="width" value="680" />
     <option name="height" value="728" />
@@ -134,8 +144,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Tuples">
-    <configuration name="Arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ConditionalStatements">
+    <configuration name="ConditionalStatements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-pythonforbeginnersintro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/Arithmetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConditionalStatements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,19 +236,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Arithmetic" />
       <item itemvalue="Python.PlaceHolders" />
       <item itemvalue="Python.Lists" />
       <item itemvalue="Python.Dictionary" />
       <item itemvalue="Python.Tuples" />
+      <item itemvalue="Python.ConditionalStatements" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ConditionalStatements" />
         <item itemvalue="Python.Tuples" />
         <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.Lists" />
         <item itemvalue="Python.PlaceHolders" />
-        <item itemvalue="Python.Arithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -256,15 +266,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="680" y="0" width="680" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1367647" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18373494" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32626426" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29888713" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30668843" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -445,6 +455,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
