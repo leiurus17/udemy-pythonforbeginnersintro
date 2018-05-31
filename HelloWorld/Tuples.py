@@ -12,7 +12,7 @@ tup2 = ("Melons", "Watermelons")
 tup3 = ("Lemons", "Mangoes")
 
 # Apparently, you can't concat a single-containing tuple
-# Because it is considered only as a string
+# Because it is considered only as the type of the value itself
 
 tup5 = ("Forbidden Fruit")
 
