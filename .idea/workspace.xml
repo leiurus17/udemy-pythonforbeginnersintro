@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b29be28-b47b-4bc7-bb5d-9af9b7002a2e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/HelloWorld/TryAndExcept.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/TryAndExcept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloWorld.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Arithmetic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/Arithmetic.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TryAndExcept.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TryAndExcept.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/TryAndExcept.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functions.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/Functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -128,6 +129,7 @@
         <option value="$PROJECT_DIR$/HelloWorld/ForLoops.py" />
         <option value="$PROJECT_DIR$/HelloWorld/WhileLoops.py" />
         <option value="$PROJECT_DIR$/HelloWorld/TryAndExcept.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/Functions.py" />
       </list>
     </option>
   </component>
@@ -183,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TryAndExcept">
+  <component name="RunManager" selected="Python.Functions">
     <configuration name="ConditionalStatements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-pythonforbeginnersintro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,6 +222,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="udemy-pythonforbeginnersintro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="TryAndExcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-pythonforbeginnersintro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,24 +253,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/TryAndExcept.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="udemy-pythonforbeginnersintro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/Tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,19 +277,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Tuples" />
       <item itemvalue="Python.ConditionalStatements" />
       <item itemvalue="Python.ForLoops" />
       <item itemvalue="Python.WhileLoops" />
       <item itemvalue="Python.TryAndExcept" />
+      <item itemvalue="Python.Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Functions" />
         <item itemvalue="Python.TryAndExcept" />
         <item itemvalue="Python.WhileLoops" />
         <item itemvalue="Python.ForLoops" />
         <item itemvalue="Python.ConditionalStatements" />
-        <item itemvalue="Python.Tuples" />
       </list>
     </recent_temporary>
   </component>
@@ -627,6 +629,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
