@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b29be28-b47b-4bc7-bb5d-9af9b7002a2e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/HelloWorld/WhileLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/WhileLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/TryAndExcept.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,11 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WhileLoops.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WhileLoops.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/WhileLoops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            <state relative-caret-position="258">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TryAndExcept.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/TryAndExcept.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -118,6 +127,7 @@
         <option value="$PROJECT_DIR$/ConditionalStatements.py" />
         <option value="$PROJECT_DIR$/HelloWorld/ForLoops.py" />
         <option value="$PROJECT_DIR$/HelloWorld/WhileLoops.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/TryAndExcept.py" />
       </list>
     </option>
   </component>
@@ -168,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WhileLoops">
+  <component name="RunManager" selected="Python.TryAndExcept">
     <configuration name="ConditionalStatements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-pythonforbeginnersintro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,25 +191,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConditionalStatements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="udemy-pythonforbeginnersintro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/Dictionary.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lon\PycharmProjects\udemy-pythonforbeginnersintro\HelloWorld\ConditionalStatements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,6 +210,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/ForLoops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TryAndExcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="udemy-pythonforbeginnersintro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/TryAndExcept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,19 +270,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Dictionary" />
       <item itemvalue="Python.Tuples" />
       <item itemvalue="Python.ConditionalStatements" />
       <item itemvalue="Python.ForLoops" />
       <item itemvalue="Python.WhileLoops" />
+      <item itemvalue="Python.TryAndExcept" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TryAndExcept" />
         <item itemvalue="Python.WhileLoops" />
         <item itemvalue="Python.ForLoops" />
         <item itemvalue="Python.ConditionalStatements" />
         <item itemvalue="Python.Tuples" />
-        <item itemvalue="Python.Dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +303,12 @@
     <frame x="680" y="0" width="680" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18373494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18373494" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32626426" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30668843" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30668843" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -603,8 +613,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/WhileLoops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        <state relative-caret-position="258">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/TryAndExcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
