@@ -1,5 +1,9 @@
 from HelloWorld.OOP.Person import Person
 
-p = Person()
+p = Person("Marlon", "21")
 
 p.print_person()
+
+p.print_name()
+
+p.print_age()
