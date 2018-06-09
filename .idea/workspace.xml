@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b29be28-b47b-4bc7-bb5d-9af9b7002a2e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/HelloWorld/OOP/HelloPerson.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/OOP/HelloPerson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/OOP/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/OOP/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/inheritance/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/OOP/HelloPerson.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/oop/HelloPerson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/OOP/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/oop/Person.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,7 +88,7 @@
         </entry>
       </file>
       <file leaf-file-name="Person.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/OOP/Person.py">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/oop/Person.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
@@ -96,7 +97,7 @@
         </entry>
       </file>
       <file leaf-file-name="HelloPerson.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/OOP/HelloPerson.py">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/oop/HelloPerson.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -133,6 +134,7 @@
         <option value="$PROJECT_DIR$/HelloWorld/InBuiltFunctions.py" />
         <option value="$PROJECT_DIR$/HelloWorld/OOP/Person.py" />
         <option value="$PROJECT_DIR$/HelloWorld/OOP/HelloPerson.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/oop/HelloPerson.py" />
       </list>
     </option>
   </component>
@@ -166,7 +168,7 @@
               <item name="udemy-pythonforbeginnersintro" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy-pythonforbeginnersintro" type="462c0819:PsiDirectoryNode" />
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -317,14 +319,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="673" y="0" width="694" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35213414" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35213414" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32626426" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32160804" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32160804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -704,14 +705,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/OOP/Person.py">
+    <entry file="file://$PROJECT_DIR$/HelloWorld/oop/Person.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/OOP/HelloPerson.py">
+    <entry file="file://$PROJECT_DIR$/HelloWorld/oop/HelloPerson.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />

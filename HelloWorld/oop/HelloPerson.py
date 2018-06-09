@@ -1,4 +1,4 @@
-from HelloWorld.OOP.Person import Person
+from HelloWorld.oop.Person import Person
 
 p = Person("Marlon", "21")
 
